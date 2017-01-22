@@ -1,0 +1,14 @@
+//
+//  PreDefine.pch
+//  CacheDemo
+//
+//  Created by 黄露 on 2017/1/21.
+//  Copyright © 2017年 黄露. All rights reserved.
+//
+
+#ifndef PreDefine_pch
+#define PreDefine_pch
+
+#import "PlistCache.h"
+
+#endif /* PreDefine_pch */
